@@ -1,4 +1,32 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+## Advanced E-Commerce Website
+
+🚀 Frontend:
+Next.js
+Tailwind CSS
+
+⚙️ Backend:
+Sanity CMS: A powerful headless CMS for managing dynamic content
+
+🛠️ State Management:
+Redux Toolkit: For centralized state management
+Zustand: Lightweight state management for specific components
+
+💳 Payments:
+Stripe Integration
+
+Key Features of This Ecommerce Project:
+
+Dynamic product listings and categories
+Fully responsive and mobile-friendly design
+Smooth user authentication and checkout process
+Scalable architecture for real-world applications
+Real-time content updates with Sanity
+
+![image](https://github.com/user-attachments/assets/80620c1b-6140-476c-9323-1aec4c83e922)
+![image](https://github.com/user-attachments/assets/7b246ebe-89ed-4715-9821-779eea7ea176)
+![image](https://github.com/user-attachments/assets/4e47a271-a690-4747-9d1b-a2569e096ab9)
+![image](https://github.com/user-attachments/assets/dcd7476c-8932-4aa7-b4eb-b27178010ac6)
+
 
 ## Getting Started
 
